@@ -1,0 +1,6 @@
+C:\Users\aronc\source\repos\ExtractKeyStroke\ExtractKeyStroke\bin\Debug\ExtractKeyStroke.exe.config
+C:\Users\aronc\source\repos\ExtractKeyStroke\ExtractKeyStroke\bin\Debug\ExtractKeyStroke.exe
+C:\Users\aronc\source\repos\ExtractKeyStroke\ExtractKeyStroke\bin\Debug\ExtractKeyStroke.pdb
+C:\Users\aronc\source\repos\ExtractKeyStroke\ExtractKeyStroke\obj\Debug\ExtractKeyStroke.csproj.CoreCompileInputs.cache
+C:\Users\aronc\source\repos\ExtractKeyStroke\ExtractKeyStroke\obj\Debug\ExtractKeyStroke.exe
+C:\Users\aronc\source\repos\ExtractKeyStroke\ExtractKeyStroke\obj\Debug\ExtractKeyStroke.pdb
