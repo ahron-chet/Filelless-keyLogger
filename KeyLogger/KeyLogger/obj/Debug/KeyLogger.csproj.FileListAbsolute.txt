@@ -1,0 +1,7 @@
+C:\Users\aronc\source\repos\KeyLogger\KeyLogger\bin\Debug\KeyLogger.exe.config
+C:\Users\aronc\source\repos\KeyLogger\KeyLogger\bin\Debug\KeyLogger.exe
+C:\Users\aronc\source\repos\KeyLogger\KeyLogger\bin\Debug\KeyLogger.pdb
+C:\Users\aronc\source\repos\KeyLogger\KeyLogger\obj\Debug\KeyLogger.csproj.AssemblyReference.cache
+C:\Users\aronc\source\repos\KeyLogger\KeyLogger\obj\Debug\KeyLogger.csproj.CoreCompileInputs.cache
+C:\Users\aronc\source\repos\KeyLogger\KeyLogger\obj\Debug\KeyLogger.exe
+C:\Users\aronc\source\repos\KeyLogger\KeyLogger\obj\Debug\KeyLogger.pdb
